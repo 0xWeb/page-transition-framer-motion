@@ -11,7 +11,7 @@ export default function App({ Component, pageProps, router }) {
 
     <div className={`${bakbak_one.className}`} >
       <Navbar />
-      <AnimatePresence >
+      <AnimatePresence initial={false} >
         <Component key={router.pathname} {...pageProps} />
       </AnimatePresence>
     </div >
