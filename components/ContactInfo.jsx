@@ -1,6 +1,6 @@
 function ContactInfo() {
     return (
-        <div className="flex justify-between">
+        <div className="flex justify-between sm:gap-40 sm:justify-normal">
             <div className="lg:text-2xl text-base">
                 <h4>
                     Find me:
