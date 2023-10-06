@@ -20,7 +20,7 @@ export default function Home() {
         animate={{ y: '0%' }}
         transition={{ duration: 0.75, ease: 'easeOut' }}
         exit={{ opacity: 1 }}
-        className='text-[#030202] absolute flex flex-col w-full h-screen bg-[#F5F1EF] pb-16 px-3 sm:px-12 lg:px-48'
+        className='text-[#030202] absolute flex flex-col w-full h-screen bg-[#F5F1EF] pb-16 px-6 sm:px-12 lg:px-48'
       >
         <div className='h-screen  flex  justify-end items-center'>
           <HomeTitle />
