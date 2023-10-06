@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web3 Page Transition
+
+![Preview Image](https://nftstorage.link/ipfs/bafkreidtvf3iidw7nbc4wth2hh4wxpklgoul2yvmlrvr5nakri46ka7tp4)
+
+Builded with: 
+
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+
+### [Check The Website Here](https://web3-transition-page.vercel.app/)
+
 
 ## Getting Started
 
@@ -38,3 +48,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Next-url]: https://nextjs.org/
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
