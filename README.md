@@ -6,12 +6,7 @@ Builded with:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![FramerMotion][Framer-Mation]][Framer-Url]
 
 ### [Check The Website Here](https://web3-transition-page.vercel.app/)
 
@@ -59,3 +54,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Framer-Motion]: https://konstantinlebedev.com/static/76d81ec25cd799b15cd16c0b16e869af/cover.png
+[Framer-Url]: [https://reactjs.org/](https://www.framer.com/)https://www.framer.com/
