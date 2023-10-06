@@ -6,7 +6,6 @@ Builded with:
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![FramerMotion][Framer-Motion]][Framer-Url]
 
 ### [Check The Website Here](https://web3-transition-page.vercel.app/)
 
