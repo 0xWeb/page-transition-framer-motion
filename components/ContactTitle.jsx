@@ -1,8 +1,8 @@
 function ContactTitle() {
     return (
-        <div className="my-64 p-1">
+        <div className="">
             <h1 className="text-6xl text-right lg:text-right lg:text-8xl">
-                Let&apos;s talk
+                Let&apos;s build <br /> <span className="web3">web3</span>
             </h1>
         </div>
     )

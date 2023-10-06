@@ -9,7 +9,7 @@ const bakbak_one = Bakbak_One({ subsets: ['latin'], weight: '400' })
 export default function App({ Component, pageProps, router }) {
   return (
 
-    <div className={`${bakbak_one.className}`} >
+    <div className={`${bakbak_one.className} `} >
       <Navbar />
       <AnimatePresence initial={false} >
         <Component key={router.pathname} {...pageProps} />

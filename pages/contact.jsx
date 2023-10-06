@@ -13,12 +13,14 @@ function page() {
             animate={{ y: '0%' }}
             transition={{ duration: 0.75, ease: 'easeOut' }}
             exit={{ opacity: 1 }}
-            className="text-[#092A20] absolute top-0 left-0 w-full h-full bg-[#D9F7EE] py-12 px-16 lg:px-48">
+            className="text-[#092A20] absolute flex flex-col w-full h-screen bg-[#D9F7EE] py-12 px-3 sm:px-12 lg:px-48">
             <Head>
                 <title>Contact Me</title>
                 <meta property="og:title" content="My page title" key="title" />
             </Head>
-            <ContactTitle />
+            <div className='h-screen flex justify-end items-center'>
+                <ContactTitle />
+            </div>
             <ContactInfo />
         </motion.main>
     )
