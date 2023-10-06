@@ -2,11 +2,19 @@
 
 ![Preview Image](https://nftstorage.link/ipfs/bafkreidtvf3iidw7nbc4wth2hh4wxpklgoul2yvmlrvr5nakri46ka7tp4)
 
-Builded with: ![Next.js](https://nextjs.org/) 
+Builded with: 
 
-[Check The Website Here](https://web3-transition-page.vercel.app/)
+* [![Next][Next.js]][Next-url]
+* [![React][React.js]][React-url]
+* [![Vue][Vue.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+### [Check The Website Here](https://web3-transition-page.vercel.app/)
+
 
 ## Getting Started
 
